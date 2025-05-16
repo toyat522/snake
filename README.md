@@ -1,0 +1,6 @@
+# snake
+
+```
+mkdir build
+cmake ..
+```
