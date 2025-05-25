@@ -1,6 +1,5 @@
 #include "game.h"
 
-#include <iostream>
 #include <ncurses.h>
 #include <locale.h>
 #include <chrono>
